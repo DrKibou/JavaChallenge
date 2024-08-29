@@ -11,7 +11,7 @@ public class Solution {
         String B=sc.next();
         int sum = A.length() + B.length(); //sums the length of the strings
         String isGreater = ""; //holds the result whether the A is lexicographically greater than B 
-        String aUpperCase = "" + A.charAt(0); //separated first letter of the strings
+        String aUpperCase = "" + A.charAt(0); //separate first letter of the strings
         String bUpperCase = "" + B.charAt(0);
         String aString = ""; //holds the rest of the element of the strings
         String bString = "";
