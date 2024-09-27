@@ -1,6 +1,6 @@
 package javaRemoveDuplicate;
 
-//return number of unique elements
+//return number of unique elements of non-decreasing elements of array
 class Solution {
   public int removeDuplicates(int[] nums) {
     if (nums.length == 0) return 0;
