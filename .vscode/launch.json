@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Solution",
             "request": "launch",
+            "mainClass": "javaDiamondPattern.Solution",
+            "projectName": "JavaChallenge_c3d55768"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
             "mainClass": "Solution",
             "projectName": "JavaChallenge_c3d55768"
         },
