@@ -21,11 +21,13 @@ class Solution {
         int [] nums = new int[n];
 
         int target = input.nextInt();
+
         for(int i = 0; i < n; i++){
             nums[i] = input.nextInt();
         }
+
         int res [] = twoSum(nums, target);
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < 2; i++){
             System.out.print(res[i]);
         }
     }

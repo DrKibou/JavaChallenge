@@ -17,6 +17,7 @@ public class Solution_2 {
         break;
       }
     }
+    
     if (isLowerCase) {
       if (A.equals(temp)) { //compare the reversed and original string and if is less than or equal to 50
         System.out.println("Yes");
